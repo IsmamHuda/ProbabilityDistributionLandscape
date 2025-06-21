@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProbabilityDistributionLandscape/static/css/main.e6c13ad2.css",
+    "main.js": "/ProbabilityDistributionLandscape/static/js/main.9490a8b6.js",
+    "static/js/453.9a52da7b.chunk.js": "/ProbabilityDistributionLandscape/static/js/453.9a52da7b.chunk.js",
+    "index.html": "/ProbabilityDistributionLandscape/index.html",
+    "main.e6c13ad2.css.map": "/ProbabilityDistributionLandscape/static/css/main.e6c13ad2.css.map",
+    "main.9490a8b6.js.map": "/ProbabilityDistributionLandscape/static/js/main.9490a8b6.js.map",
+    "453.9a52da7b.chunk.js.map": "/ProbabilityDistributionLandscape/static/js/453.9a52da7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9490a8b6.js"
+  ]
+}
